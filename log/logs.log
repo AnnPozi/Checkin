@@ -1,0 +1,56 @@
+2021-10-08 10:58:55   INFO [RegistrationPage:57  ] : Page was opened https://www.pinterest.co.uk/
+2021-10-08 10:58:56   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (1e7e886bfdf94f091fa4f979b958ad8b)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[3]/button]
+2021-10-08 10:58:56   INFO [WebElements:33  ] : 346346-sdgsdgs@yopmail.com was inputted
+2021-10-08 10:58:56   INFO [WebElements:33  ] : qwerty123 was inputted
+2021-10-08 10:58:56   INFO [WebElements:33  ] : 22 was inputted
+2021-10-08 10:59:16  ERROR [WebElements:50  ] : Can't work with element Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[2]/div[2]/div/div/div/div/div/div/div[1]/div[5]/div/div[1]/form/div[5]/buttone'
+2021-10-08 11:01:29   INFO [RegistrationPage:57  ] : Page was opened https://www.pinterest.co.uk/
+2021-10-08 11:01:29   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (640720d0e983c63d18a08f41c98317c9)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[3]/button]
+2021-10-08 11:01:29   INFO [WebElements:33  ] : 346346-sdgsdgs@yopmail.com was inputted
+2021-10-08 11:01:29   INFO [WebElements:33  ] : qwerty123 was inputted
+2021-10-08 11:01:29   INFO [WebElements:33  ] : 22 was inputted
+2021-10-08 18:13:12   INFO [RegistrationPage:57  ] : Page was opened https://www.pinterest.co.uk/
+2021-10-08 18:13:12   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (c2a9501d982664d855c081b70dbca4d2)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[3]/button]
+2021-10-08 18:13:12   INFO [WebElements:33  ] : 346346-sdgsdgs@yopmail.com was inputted
+2021-10-08 18:13:12   INFO [WebElements:33  ] : qwerty123 was inputted
+2021-10-08 18:13:13   INFO [WebElements:33  ] : 22 was inputted
+2021-10-08 18:13:43   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (c2a9501d982664d855c081b70dbca4d2)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[2]/div[2]/div/div/div/div/div/div/div[1]/div[5]/div/div[1]/form/div[5]/button]
+2021-10-08 18:13:44  ERROR [WebElements:113 ] : Can't check text in element Welcome
+2021-10-08 18:16:04   INFO [RegistrationPage:57  ] : Page was opened https://www.pinterest.co.uk/
+2021-10-08 18:16:04   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (989039fc274232a1fa9f5f111f95d02c)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[3]/button]
+2021-10-08 18:16:04   INFO [WebElements:33  ] : 346346-sdgsdgs@yopmail.com was inputted
+2021-10-08 18:16:04   INFO [WebElements:33  ] : qwerty123 was inputted
+2021-10-08 18:16:04   INFO [WebElements:33  ] : 22 was inputted
+2021-10-08 18:17:39   INFO [RegistrationPage:57  ] : Page was opened https://www.pinterest.co.uk/
+2021-10-08 18:17:39   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (6781e1f074a08cab59d6f5f44faacf90)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[3]/button]
+2021-10-08 18:17:39   INFO [WebElements:33  ] : 346346-sdgsdgs@yopmail.com was inputted
+2021-10-08 18:17:39   INFO [WebElements:33  ] : qwerty123 was inputted
+2021-10-08 18:17:39   INFO [WebElements:33  ] : 22 was inputted
+2021-10-08 18:17:51   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (6781e1f074a08cab59d6f5f44faacf90)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[2]/div[2]/div/div/div/div/div/div/div[1]/div[5]/div/div[1]/form/div[5]/button]
+2021-10-08 18:18:06  ERROR [WebElements:113 ] : Can't check text in element Welcome
+2021-10-08 18:32:15   INFO [RegistrationPage:57  ] : Page was opened https://www.pinterest.co.uk/
+2021-10-08 18:32:15   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (cb0fd69b3d1f4b756004fbbe48e6bf6c)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[3]/button]
+2021-10-08 18:32:16   INFO [WebElements:33  ] : 346346-sdgsdgs@yopmail.com was inputted
+2021-10-08 18:32:16   INFO [WebElements:33  ] : qwerty123 was inputted
+2021-10-08 18:32:16   INFO [WebElements:33  ] : 22 was inputted
+2021-10-08 18:32:31   INFO [WebElements:48  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[2]/div[2]/div/div/div/div/div/div/div[1]/div[5]/div/div[1]/form/div[5]/button'
+2021-10-08 18:32:46  ERROR [WebElements:113 ] : Can't check text in element Welcome to Pinterest
+2021-10-08 18:34:47   INFO [RegistrationPage:57  ] : Page was opened https://www.pinterest.co.uk/
+2021-10-08 18:34:48   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (357e9c9ae31b06acbcf36e8989ccf1d6)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[3]/button]
+2021-10-08 18:34:48   INFO [WebElements:33  ] : 346346-sdgsdgs@yopmail.com was inputted
+2021-10-08 18:34:48   INFO [WebElements:33  ] : qwerty123 was inputted
+2021-10-08 18:34:48   INFO [WebElements:33  ] : 22 was inputted
+2021-10-08 18:35:04   INFO [WebElements:48  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[2]/div[2]/div/div/div/div/div/div/div[1]/div[5]/div/div[1]/form/div[5]/button'
+2021-10-08 18:35:04  ERROR [WebElements:50  ] : Can't work with element Proxy element for: DefaultElementLocator 'By.xpath: '/html/body/div[2]/div/div/div[2]/div/div[3]/button'
+2021-10-08 18:41:54   INFO [RegistrationPage:57  ] : Page was opened https://www.pinterest.co.uk/
+2021-10-08 18:41:54   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (b16abd6422cb6ad549201041223ac970)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[3]/button]
+2021-10-08 18:41:55   INFO [WebElements:33  ] : 11 was inputted
+2021-10-08 18:41:55   INFO [WebElements:33  ] : aa was inputted
+2021-10-08 18:41:55   INFO [WebElements:33  ] : qq was inputted
+2021-10-08 18:41:55   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (b16abd6422cb6ad549201041223ac970)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[2]/div[2]/div/div/div/div/div/div/div[1]/div[5]/div/div[1]/form/div[5]/button]
+2021-10-08 18:43:30   INFO [RegistrationPage:57  ] : Page was opened https://www.pinterest.co.uk/
+2021-10-08 18:43:30   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (4d4721c3d81342461e866bf730d68888)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[3]/button]
+2021-10-08 18:43:31   INFO [WebElements:33  ] : 11 was inputted
+2021-10-08 18:43:31   INFO [WebElements:33  ] : aa was inputted
+2021-10-08 18:43:31   INFO [WebElements:33  ] : qq was inputted
+2021-10-08 18:43:31   INFO [WebElements:48  ] : Element was clicked [[ChromeDriver: chrome on MAC (4d4721c3d81342461e866bf730d68888)] -> xpath: //*[@id="__PWS_ROOT__"]/div[1]/div/div/div/div[1]/div[2]/div[2]/div/div/div/div/div/div/div[1]/div[5]/div/div[1]/form/div[5]/button]
